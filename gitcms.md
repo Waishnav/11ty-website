@@ -5,7 +5,7 @@ media_path: public/media
 ssg_framework: eleventy
 frontmatter_format: yaml
 collections:
-  - name: ""
+  - name: blogs
     git_path: /src/blog/
     file_extension: .md
     filename_pattern: ""
