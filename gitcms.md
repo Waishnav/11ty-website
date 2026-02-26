@@ -4,6 +4,7 @@ website_url: https://11ty.org
 media_path: ""
 ssg_framework: eleventy
 frontmatter_format: yaml
+publishing_mode: direct_publish
 collections:
   - name: blogs
     git_path: /src/blog/
